@@ -92,3 +92,6 @@
 //     console.log(name2,name1,name3);
 // }
 // setname("Abdulloh","saidkamol","asadbek")
+let num =123
+let num1 =`123`
+console.log(num,num1);
